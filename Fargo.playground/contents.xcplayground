@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='raw' timelineScrubberEnabled='true'>
+    <pages>
+        <page name='Title Page'/>
+        <page name='ARGO?'/>
+        <page name='Defining a User'/>
+        <page name='map optional'/>
+        <page name='apply optional'/>
+        <page name='map and apply are friends'/>
+        <page name='Its a lie'/>
+        <page name='Deserializing JSON'/>
+        <page name='Accessing the BEAST!'/>
+        <page name='In Usage'/>
+    </pages>
+</playground>
